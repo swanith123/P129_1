@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+    font-family: 'Cabin', sans-serif;
+}
+
+.heading{
+    color: white;
+    font-size: 25px;
+    margin: 0px;
+    width: 100%;
+}
+
+.title_note{
+ font-size: 20px;
+}
+
+#song_name{
+margin-top: 50px;
+width: 200px;
+font-size: 20px;
+}
+
+canvas{
+border: 4px solid #7ffffd;
+border-radius: 30px;
+margin-top: 250px;
+box-shadow: 5px 5px 5px #ffa057
+}
